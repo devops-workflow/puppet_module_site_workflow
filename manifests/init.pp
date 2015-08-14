@@ -6,5 +6,5 @@
 #
 # This is just a dummy class file for module completeness
 #
-class site_workflow: {
+class site_workflow {
 }

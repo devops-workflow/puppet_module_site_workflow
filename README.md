@@ -1,2 +1,5 @@
 
-Site specific files
+Data files for the workflow
+
+Currently, just contains icons for Jenkins
+

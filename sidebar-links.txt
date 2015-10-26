@@ -1,0 +1,3 @@
+Test Confluence;http://doc.test.com;confluence.png
+Test Jira;http://jira.test.com;jira.png
+Test OpenStack;http://openstack.test.com;openstack.png

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.model.labels.LabelAtom>
+  <actions/>
+  <properties>
+    <jenkins.plugins.linkedjobs.extensions.LabelExtension plugin="label-linked-jobs@4.0.2"/>
+  </properties>
+  <description></description>
+</hudson.model.labels.LabelAtom>

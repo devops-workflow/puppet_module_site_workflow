@@ -4,5 +4,6 @@
   <properties>
     <jenkins.plugins.linkedjobs.extensions.LabelExtension plugin="label-linked-jobs@4.0.2"/>
   </properties>
-  <description></description>
+  <description>Puppet tools are installed
+This includes: puppet-lint with plugins, etc.</description>
 </hudson.model.labels.LabelAtom>
